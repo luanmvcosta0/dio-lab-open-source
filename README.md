@@ -1,16 +1,18 @@
 ## Olá! 👋
 
-Eu sou **Seu nome**, um(a) desenvolvedor(a) em aprendizado.  
+Eu sou **Luan Costa**, um desenvolvedor Fullstack.  
 Atualmente estou focando meus estudos em:
 
-- ☕ **Java**
-- 🌐 **Spring Framework**
-- 🟣 **API REST**
-- 🐘 **Banco de Dados (MySQL, H2)**
+- ☕ **Java**, **Spring Boot**
+- 📥 **Messageria com Apache Kafka**
+- 🌐 **API REST**, **Padrão RESTFULL**, **Arquitetura Hexagonal**, **MVC**
+- 🌟 **Testes Unitários**
+- 🐘 **Bancos de Dados:** MySQL, PostgreSQL, MongoDB
+- 🟣 **Front-end:** HTML, CSS, Javascript, **Angular**
+- 🐳 **Docker**, **Github**, **Scrum**
+- 📚 **Documentação:** Swagger
 
 ---
-
-### Por que contribuí?
 
 Eu contribuí para o **DIO Lab Open Source** para dar o primeiro passo no mundo da colaboração.  
 Isso me ajudará a:
